@@ -1,0 +1,139 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{11}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Anisi}{Anisi}{2003}]%
+        {Ani03}
+\bibfield{author}{\bibinfo{person}{David~A. Anisi}.} \bibinfo{year}{2003}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Optimal Motion Control of a Ground Vehicle}}.
+\newblock \bibinfo{thesistype}{Master's\ thesis}. \bibinfo{school}{Royal Institute of Technology (KTH), Stockholm, Sweden}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Anzaroot and McCallum}{Anzaroot and McCallum}{2013}]%
+        {AnMC13}
+\bibfield{author}{\bibinfo{person}{Sam Anzaroot} {and} \bibinfo{person}{Andrew McCallum}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{UMass} Citation Field Extraction Dataset}}.
+\newblock University of Massachusetts.
+\newblock
+\urldef\tempurl%
+\url{http://www.iesl.cs.umass.edu/data/data-umasscitationfield}
+\showURL{%
+Retrieved May 27, 2019 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Clarkson}{Clarkson}{1985}]%
+        {Cla85}
+\bibfield{author}{\bibinfo{person}{Kenneth~L. Clarkson}.} \bibinfo{year}{1985}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Algorithms for Closest-Point Problems (Computational Geometry)}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{Stanford University}, \bibinfo{address}{Palo Alto, CA}.
+\newblock
+\newblock
+\shownote{UMI Order Number: AAT 8506171.}
+
+
+\bibitem[\protect\citeauthoryear{Grosz and Kraus}{Grosz and Kraus}{1996}]%
+        {GrKr96}
+\bibfield{author}{\bibinfo{person}{Barbara~J. Grosz} {and} \bibinfo{person}{Sarit Kraus}.} \bibinfo{year}{1996}\natexlab{}.
+\newblock \showarticletitle{Collaborative Plans for Complex Group Action}.
+\newblock \bibinfo{journal}{\emph{Artificial Intelligence}} \bibinfo{volume}{86}, \bibinfo{number}{2} (\bibinfo{year}{1996}), \bibinfo{pages}{269--357}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hagerup, Mehlhorn, and Munro}{Hagerup et~al\mbox{.}}{1993}]%
+        {Hag1993}
+\bibfield{author}{\bibinfo{person}{Torben Hagerup}, \bibinfo{person}{Kurt Mehlhorn}, {and} \bibinfo{person}{J.~Ian Munro}.} \bibinfo{year}{1993}\natexlab{}.
+\newblock \showarticletitle{Maintaining Discrete Probability Distributions Optimally}. In \bibinfo{booktitle}{\emph{Proceedings of the 20th International Colloquium on Automata, Languages and Programming}} \emph{(\bibinfo{series}{Lecture Notes in Computer Science}, Vol.~\bibinfo{volume}{700})}. \bibinfo{publisher}{Springer-Verlag}, \bibinfo{address}{Berlin}, \bibinfo{pages}{253--264}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Harel}{Harel}{1978}]%
+        {Har78}
+\bibfield{author}{\bibinfo{person}{David Harel}.} \bibinfo{year}{1978}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Logics of programs: axiomatics and descriptive power}}.
+\newblock \bibinfo{type}{MIT Research Lab Technical Report} TR-200. \bibinfo{institution}{Massachusetts Institute of Technology}, \bibinfo{address}{Cambridge, MA}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Knuth}{Knuth}{1997}]%
+        {Knu97}
+\bibfield{author}{\bibinfo{person}{Donald~E. Knuth}.} \bibinfo{year}{1997}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The Art of Computer Programming, Vol. 1: Fundamental Algorithms} (\bibinfo{edition}{3rd} ed.)}.
+\newblock \bibinfo{publisher}{Addison Wesley}, \bibinfo{address}{Reading, Massachusetts}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lamport}{Lamport}{1994}]%
+        {Lam94}
+\bibfield{author}{\bibinfo{person}{Leslie Lamport}.} \bibinfo{year}{1994}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{\LaTeX}: A Document Preparation System} (\bibinfo{edition}{2nd} ed.)}.
+\newblock \bibinfo{publisher}{Addison-Wesley}, \bibinfo{address}{Reading, MA}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Obama}{Obama}{2008}]%
+        {Oba08}
+\bibfield{author}{\bibinfo{person}{Barack Obama}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{title}{A More Perfect Union}.
+\newblock \bibinfo{howpublished}{Video}.
+\newblock
+\urldef\tempurl%
+\url{http://video.google.com/videoplay?docid=6528042696351994555}
+\showURL{%
+Retrieved March 21, 2008 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Scientist}{Scientist}{2009}]%
+        {Sci09}
+\bibfield{author}{\bibinfo{person}{Joseph Scientist}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \bibinfo{title}{The fountain of youth}.
+\newblock
+\newblock
+\newblock
+\shownote{Patent No. 12345, Filed July 1st., 2008, Issued Aug. 9th., 2009.}
+
+
+\bibitem[\protect\citeauthoryear{Wooldridge and Jennings}{Wooldridge and Jennings}{1995}]%
+        {WoJe95}
+\bibfield{author}{\bibinfo{person}{Michael~J. Wooldridge} {and} \bibinfo{person}{Nicholas~R. Jennings}.} \bibinfo{year}{1995}\natexlab{}.
+\newblock \showarticletitle{Intelligent Agents: Theory and Practice}.
+\newblock \bibinfo{journal}{\emph{The Knowledge Engineering Review}} \bibinfo{volume}{10}, \bibinfo{number}{2} (\bibinfo{year}{1995}), \bibinfo{pages}{115--152}.
+\newblock
+
+
+\end{thebibliography}
